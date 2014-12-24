@@ -14,7 +14,6 @@ common options (`EsConfiguration`), and some [health checks] [4] which can insta
 [3]: http://dropwizard.io/0.7.1/docs/manual/core.html#managed-objects
 [4]: http://dropwizard.io/0.7.1/docs/manual/core.html#health-checks
 
-
 Usage
 -----
 
@@ -71,7 +70,6 @@ Support
 -------
 
 Please file bug reports and feature requests in [GitHub issues](https://github.com/dropwizard/dropwizard-elasticsearch/issues).
-
 
 Acknowledgements
 ----------------
